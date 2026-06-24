@@ -1,0 +1,9 @@
+{
+  "versionCode": 117,
+  "versionName": "1.0.2",
+  "force": false,
+  "title": "发现新版本",
+  "changelog": "• 支持 GitHub Release 检查更新\n• 设置页可手动检查版本\n• 修复部分机型提醒不准时",
+  "androidUrl": "https://github.com/lululuting/worker-release/releases/download/v1.0.2/dagongniuma.apk",
+  "iosUrl": ""
+}
